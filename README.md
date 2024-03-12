@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Prototype : https://www.figma.com/file/k8OLIJcfEXScuvPQ8GJhtl/Untitled?type=design&node-id=12%3A2&mode=design&t=WU7yaPqB4SL1NyfI-1
 
-A few resources to get you started if this is your first Flutter project:
+เป็นแอปพลิเคชันขายสินค้าครับ เกียวกับต้อนไม้ในการตกแต่งบ้านครับ
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+คลิปอธิบายการทำงานของโปรแกรม : https://youtu.be/QW4Dj4C0CrE.
